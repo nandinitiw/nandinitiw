@@ -1,16 +1,16 @@
-#Hi I'm Nandini :)
+# Hi I'm Nandini :)
 
-##About me
+## About me
 - Freshman at Carnegie Mellon studying Information Systems
 - Interested in applying Machine Learning to real-world data sets
 - Currently learning React, C
 - Reach me at: nandinit@andrew.cmu.edu
 - Projects pending...
 
-##Skills
-**Languages:** Python, SQL, Java, C#
-**Tools:** Git, Pandas, NumPy, Jupyter
-**Databases:** MongoDB
+## Skills
+- **Languages:** Python, SQL, Java, C#
+- **Tools:** Git, Pandas, NumPy, Jupyter
+- **Databases:** MongoDB
 
 
 <!--
