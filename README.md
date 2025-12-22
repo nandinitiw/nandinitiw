@@ -1,4 +1,17 @@
-## Hi there 👋
+#Hi I'm Nandini :)
+
+##About me
+- Freshman at Carnegie Mellon studying Information Systems
+- Interested in applying Machine Learning to real-world data sets
+- Currently learning React, C
+- Reach me at: nandinit@andrew.cmu.edu
+- Projects pending...
+
+##Skills
+**Languages:** Python, SQL, Java, C#
+**Tools:** Git, Pandas, NumPy, Jupyter
+**Databases:** MongoDB
+
 
 <!--
 **nandinitiw/nandinitiw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
