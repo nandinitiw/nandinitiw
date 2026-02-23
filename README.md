@@ -3,12 +3,11 @@
 ## About me
 - Freshman at Carnegie Mellon studying Information Systems
 - Interested in applying Machine Learning to real-world data sets
-- Currently learning React, C
+- Currently learning C
 - Reach me at: nandinit@andrew.cmu.edu
-- Projects pending...
 
 ## Skills
-- **Languages:** Python, SQL, Java, C#
+- **Languages:** Python, SQL, Java, C#, typescript, R
 - **Tools:** Git, Pandas, NumPy, Jupyter
 - **Databases:** MongoDB
 
