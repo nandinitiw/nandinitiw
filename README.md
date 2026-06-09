@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nandini Tiwari
+# Hi, I'm Nandini!
 
 <div align="center">
 
@@ -72,7 +72,7 @@ nandini = {
 
 💼 [LinkedIn](https://linkedin.com/in/nandini-tiwari)
 
-🌐 Check out my projects below 👇
+🌐 Check out my projects below!
 
 <!--
 **nandinitiw/nandinitiw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
