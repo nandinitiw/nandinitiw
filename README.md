@@ -2,7 +2,7 @@
 <div align="center">
 
 🎓 Information Systems @ Carnegie Mellon University  
-👩‍💻 AI + Machine Learning + Full-Stack Development  
+👩‍💻 AI + Full-Stack Dev 
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## 🪞 About Me
 
-I'm a freshman at Carnegie Mellon University studying **Information Systems** with a **Computer Science minor** and an **AI Management concentration**.
+I'm a freshman at Carnegie Mellon University studying **Information Systems** with a **CS minor** and an **AI Management concentration**.
 
 I enjoy building products at the intersection of:
 
