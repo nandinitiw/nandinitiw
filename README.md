@@ -7,7 +7,7 @@
 - Reach me at: nandinit@andrew.cmu.edu
 
 ## Skills
-- **Languages:** Python, SQL, Java, C#, typescript, R
+- **Languages:** Python, SQL, Java, C#, TypeScript, R
 - **Tools:** Git, Pandas, NumPy, Jupyter
 - **Databases:** MongoDB
 
