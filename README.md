@@ -1,5 +1,5 @@
 
-## hi, i'm nandini
+<img align="center" width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/6fc1d503-197c-4cf1-b617-12a157f124ac" />
 
 <div align="center">
 
