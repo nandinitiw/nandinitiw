@@ -20,8 +20,7 @@ I enjoy building products at the intersection of:
 - 🏥 AI Applications in Healthcare
 - ♟️ Computational Chess
 
-Currently, I'm building AI systems, exploring applied ML, and looking for opportunities to turn research and data into tools people actually use.
-
+Currently building & looking for opportunities 🌷͙
 ---
 
 ## 💻 Tech Stack
