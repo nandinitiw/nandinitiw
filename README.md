@@ -1,5 +1,5 @@
 
-hi, i'm nandini!
+### hi, i'm nandini!
 <div align="center">
 
 🎓 information systems @ carnegie mellon university  
