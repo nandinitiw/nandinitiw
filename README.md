@@ -68,7 +68,7 @@ nandini = {
 
 📧 nandinit@andrew.cmu.edu
 
-🪽 [LinkedIn]((https://www.linkedin.com/in/nandini-tiwari-b38455287/))
+🪽 [LinkedIn](https://www.linkedin.com/in/nandini-tiwari-b38455287/)
 
 🌐 check out my projects below!
 
