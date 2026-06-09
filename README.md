@@ -1,5 +1,4 @@
-# ⋆. 𐙚˚࿔ Hi, I'm Nandini! 𝜗𝜚˚⋆
-
+# 🫧⋆. 𐙚˚࿔ Hi, I'm Nandini! 𝜗𝜚˚🫧
 <div align="center">
 
 🎓 Information Systems @ Carnegie Mellon University  
@@ -57,10 +56,9 @@ Currently, I'm building AI systems, exploring applied ML, and looking for opport
 
 ```python
 nandini = {
-    "currently_learning": ["Systems Programming", "AI Agents", "ML Applications"],
-    "interests": ["Healthcare AI", "Data Science", "Startups", "Chess"],
-    "favorite_projects": ["MORPHY", "Agentic AI Systems"],
-    "always_down_to_talk_about": ["AI", "Product Building", "Chess"]
+    "currently_learning": ["LeetCode Strategies", "AI Agents", "HCD"],
+    "interests": ["Data Transformation", "Startups", "Building Cool Ideas"],
+    "always_down_to_talk_about": ["Crochet", "Music", "Hikes", "Fashion"]
 }
 ```
 
