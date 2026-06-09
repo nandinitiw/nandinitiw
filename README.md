@@ -1,21 +1,21 @@
-# Hi, I'm Nandini!
+# ⋆. 𐙚˚࿔ Hi, I'm Nandini! 𝜗𝜚˚⋆
 
 <div align="center">
 
 🎓 Information Systems @ Carnegie Mellon University  
-🤖 AI + Machine Learning + Full-Stack Development  
+👩‍💻 AI + Machine Learning + Full-Stack Development  
 
 </div>
 
 ---
 
-## 🌟 About Me
+## 🪞 About Me
 
 I'm a freshman at Carnegie Mellon University studying **Information Systems** with a **Computer Science minor** and an **AI Management concentration**.
 
 I enjoy building products at the intersection of:
 
-- 🤖 Agentic AI
+- 👾 Agentic AI
 - 📈 Machine Learning & Data Science
 - 🌐 Full-Stack Development
 - 🏥 AI Applications in Healthcare
@@ -53,7 +53,7 @@ Currently, I'm building AI systems, exploring applied ML, and looking for opport
 
 ---
 
-## 🎯 Interests
+## 🧸ྀི Interests
 
 ```python
 nandini = {
@@ -70,7 +70,7 @@ nandini = {
 
 📧 nandinit@andrew.cmu.edu
 
-💼 [LinkedIn](https://linkedin.com/in/nandini-tiwari)
+🪽 [LinkedIn](https://linkedin.com/in/nandini-tiwari)
 
 🌐 Check out my projects below!
 
