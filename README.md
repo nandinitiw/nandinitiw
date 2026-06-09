@@ -9,7 +9,7 @@
 
 ---
 
-## 🪞 about 
+## about 
 
 * i'm from the bay area, CA
 * i'm a sophomore at carnegie mellon studying **information systems** with a **cs minor** and an **ai management concentration**.
@@ -24,7 +24,7 @@ i enjoy building products at the intersection of:
 
 currently building stuff & looking for opportunities 🌷͙
 
-## 💻 my stack
+## my stack
 
 ### languages
 
