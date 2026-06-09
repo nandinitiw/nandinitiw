@@ -8,9 +8,10 @@
 
 ---
 
-## 🪞 about me
+## 🪞 about 🪞 
 
-i'm a sophomore at carnegie mellon university studying **information systems** with a **cs minor** and an **ai management concentration**.
+* i'm from the bay area, CA
+* i'm a sophomore at carnegie mellon studying **information systems** with a **cs minor** and an **ai management concentration**.
 
 i enjoy building products at the intersection of:
 
@@ -20,9 +21,9 @@ i enjoy building products at the intersection of:
 - 🏥 ai applications in healthcare
 - ♟️ computational chess
 
-currently building & looking for opportunities 🌷͙
+currently building stuff & looking for opportunities 🌷͙
 
-## 💻 tech stack
+## 💻 my stack 💻
 
 ### languages
 
@@ -50,13 +51,13 @@ currently building & looking for opportunities 🌷͙
 
 ---
 
-## 🧸ྀི interests
+## 🧸ྀི interests 🧸ྀི
 
 ```python
 nandini = {
     "currently_learning": ["LeetCode Strategies", "AI Agents", "HCD"],
     "interests": ["Data Transformation", "Startups", "Building Cool Ideas"],
-    "always_down_to_talk_about": ["Crochet", "Music", "Hikes", "Fashion"]
+    "always_down_to_talk_about": ["Crochet", "Music", "Traveling", "Fashion"]
 }
 ```
 
