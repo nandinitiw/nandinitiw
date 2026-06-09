@@ -1,4 +1,6 @@
-# 🫧⋆. 𐙚˚࿔ hi, i'm nandini! 𝜗𝜚˚🫧
+
+<img align="center" width="1536" height="1024" alt="readmebg" src="https://github.com/user-attachments/assets/9d2d8862-c141-42d4-8eb3-bf9ca489688f" />
+
 <div align="center">
 
 🎓 information systems @ carnegie mellon university  
