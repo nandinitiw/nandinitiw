@@ -21,7 +21,6 @@ I enjoy building products at the intersection of:
 - ♟️ Computational Chess
 
 Currently building & looking for opportunities 🌷͙
----
 
 ## 💻 Tech Stack
 
