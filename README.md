@@ -1,30 +1,30 @@
-# 🫧⋆. 𐙚˚࿔ Hi, I'm Nandini! 𝜗𝜚˚🫧
+# 🫧⋆. 𐙚˚࿔ hi, i'm nandini! 𝜗𝜚˚🫧
 <div align="center">
 
-🎓 Information Systems @ Carnegie Mellon University  
-👩‍💻 AI + Full-Stack Dev 
+🎓 information systems @ carnegie mellon university  
+👩‍💻 ai + full-stack dev 
 
 </div>
 
 ---
 
-## 🪞 About Me
+## 🪞 about me
 
-I'm a freshman at Carnegie Mellon University studying **Information Systems** with a **CS minor** and an **AI Management concentration**.
+i'm a sophomore at carnegie mellon university studying **information systems** with a **cs minor** and an **ai management concentration**.
 
-I enjoy building products at the intersection of:
+i enjoy building products at the intersection of:
 
-- 👾 Agentic AI
-- 📈 Machine Learning & Data Science
-- 🌐 Full-Stack Development
-- 🏥 AI Applications in Healthcare
-- ♟️ Computational Chess
+- 👾 agentic ai
+- 📈 machine learning & data science
+- 🌐 full-stack development
+- 🏥 ai applications in healthcare
+- ♟️ computational chess
 
-Currently building & looking for opportunities 🌷͙
+currently building & looking for opportunities 🌷͙
 
-## 💻 Tech Stack
+## 💻 tech stack
 
-### Languages
+### languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
@@ -33,7 +33,7 @@ Currently building & looking for opportunities 🌷͙
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frameworks & Tools
+### frameworks & tools
 
 ![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
@@ -50,7 +50,7 @@ Currently building & looking for opportunities 🌷͙
 
 ---
 
-## 🧸ྀི Interests
+## 🧸ྀི interests
 
 ```python
 nandini = {
@@ -62,13 +62,13 @@ nandini = {
 
 ---
 
-## 📫 Connect With Me
+## 📫 connect with me!
 
 📧 nandinit@andrew.cmu.edu
 
 🪽 [LinkedIn](https://linkedin.com/in/nandini-tiwari)
 
-🌐 Check out my projects below!
+🌐 check out my projects below!
 
 <!--
 **nandinitiw/nandinitiw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
