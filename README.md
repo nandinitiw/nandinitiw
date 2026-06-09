@@ -1,6 +1,5 @@
 
-<img align="center" width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/6fc1d503-197c-4cf1-b617-12a157f124ac" />
-
+hi, i'm nandini!
 <div align="center">
 
 🎓 information systems @ carnegie mellon university  
@@ -10,7 +9,7 @@
 
 ---
 
-## 🪞 about 🪞 
+## 🪞 about 
 
 * i'm from the bay area, CA
 * i'm a sophomore at carnegie mellon studying **information systems** with a **cs minor** and an **ai management concentration**.
@@ -25,7 +24,7 @@ i enjoy building products at the intersection of:
 
 currently building stuff & looking for opportunities 🌷͙
 
-## 💻 my stack 💻
+## 💻 my stack
 
 ### languages
 
@@ -45,7 +44,7 @@ currently building stuff & looking for opportunities 🌷͙
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
 ![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=for-the-badge)
 
-### Data & ML
+### data & ml
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
