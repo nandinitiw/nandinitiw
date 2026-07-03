@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0117,45:6A1B9A,100:FF2E97&height=210&section=header&text=Nandini%20Tiwari&fontColor=FFFFFF&fontSize=54&fontAlignY=36&animation=twinkling&desc=Software%20Engineer%20%E2%9C%A6%20AI%20Agents%20%E2%9C%A6%20CMU%20Information%20Systems%20'29&descSize=17&descAlignY=58" width="100%" alt="Nandini Tiwari banner" />
 
-<a href="https://github.com/nandinitiw">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF2E97&center=true&vCenter=true&width=620&height=45&lines=Building+agentic+AI+pipelines+%E2%9A%A1;I+make+LLMs+use+tools+%E2%9C%A8;Software+Engineer+%40+Pamastay+(Stanford+StartX)+%F0%9F%A4%96;Turning+wild+ideas+into+shipped+products+%F0%9F%9A%80" alt="typing tagline" />
-</a>
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0117?style=for-the-badge&logo=linkedin&logoColor=B24BF3)](https://linkedin.com/in/nandini-tiwari)
@@ -20,11 +16,11 @@
 
 ```python
 nandini = {
-    "role":      "Software Engineer @ Pamastay (Stanford StartX Accelerator)",
+    "role":      "Software Engineer @ Pamastay",
     "also":      "Data Analyst @ CMU Business Technology Group",
     "school":    "Carnegie Mellon — B.S. Information Systems, CS minor (AI Mgmt) '29",
     "based_in":  "Bay Area, CA ✦ Pittsburgh, PA",
-    "loves":     ["agentic pipelines", "LLM tool use", "shipping fast", "chess ♟️"],
+    "loves":     ["fashion", "experimenting", "shipping fast", "chess"],
     "currently": "wiring multi-agent systems that monitor, triage & escalate on their own",
 }
 ```
@@ -130,7 +126,7 @@ A 3-agent pipeline (Orchestrator → Interpreter → Coding agent) tracking 249+
 
 ## 🌟 Open Source
 
-Sending PRs upstream and learning how big codebases actually work:
+Sending PRs upstream and learning how codebases actually work:
 
 - 🟣 **PostHog** — [#67552](https://github.com/PostHog/posthog/pull/67552) *(merged ✅)* — fixed feature-flag dashboard tests by mocking the client correctly.
 - 🔵 **Chroma** *(chroma-core)* — [#7381](https://github.com/chroma-core/chroma/pull/7381) *(open)* — warn on client/server version mismatch at connection time.
@@ -160,7 +156,5 @@ Sending PRs upstream and learning how big codebases actually work:
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E97,55:6A1B9A,100:0D0117&height=120&section=footer" width="100%" alt="footer" />
-
-<sub>✨ thanks for stopping by — let's build something ✨</sub>
 
 </div>
