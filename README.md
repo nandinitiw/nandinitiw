@@ -11,7 +11,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0117?style=for-the-badge&logo=linkedin&logoColor=B24BF3)](https://linkedin.com/in/nandini-tiwari)
 [![GitHub](https://img.shields.io/badge/GitHub-0D0117?style=for-the-badge&logo=github&logoColor=FF2E97)](https://github.com/nandinitiw)
 [![Email](https://img.shields.io/badge/Email-0D0117?style=for-the-badge&logo=gmail&logoColor=B24BF3)](mailto:nandinit@andrew.cmu.edu)
-![Profile Views](https://komarev.com/ghpvc/?username=nandinitiw&style=for-the-badge&color=FF2E97&label=VISITORS)
 
 </div>
 
