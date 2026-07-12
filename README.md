@@ -17,7 +17,7 @@
 ```python
 nandini = {
     "role":      "Software Engineer @ Pamastay",
-    "also":      "Data Analyst @ CMU Business Technology Group",
+    "also":      "Data Analyst @ CMU Business Technology Group, Prev @ Berkeley National Lab",
     "school":    "Carnegie Mellon — B.S. Information Systems, CS minor (AI Mgmt) '29",
     "based_in":  "Bay Area, CA ✦ Pittsburgh, PA",
     "loves":     ["fashion", "experimenting", "shipping fast", "chess"],
@@ -25,9 +25,6 @@ nandini = {
 }
 ```
 
-- 🤖 I build **agentic AI systems** — multi-agent orchestration, LLM tool-use loops, and pipelines that actually ship to real users.
-- 🧪 Ex **Lawrence Berkeley National Lab** research intern — automated spectroscopy analysis in Python for LBNL's solar energy program.
-- 🌱 Always learning in public — most of what you see below was designed & built end-to-end.
 
 ---
 
