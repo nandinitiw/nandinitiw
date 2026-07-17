@@ -91,7 +91,7 @@ Sending PRs upstream and learning how codebases actually work:
 
 <div align="center">
 
-🎯 **Fun Facts** — I coached chess at Berkeley Chess School ♟️ · led an 80-member Girls Who Code chapter as president 👩‍💻 · earned my Girl Scout Gold Award 🥇 · and I'm a licensed ham radio operator 📻 *(call sign KO6EJP)*
+🎯 **Fun Facts** — I coached chess at Berkeley Chess School ♟️ · led an 80-member Girls Who Code chapter 👩‍💻 · earned my Girl Scout Gold Award 🥇 · and I'm a licensed ham radio operator 📻 *(call sign KO6EJP)*
 
 <br/>
 
