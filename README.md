@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0117,45:6A1B9A,100:FF2E97&height=210&section=header&text=Nandini%20Tiwari&fontColor=FFFFFF&fontSize=54&fontAlignY=36&animation=twinkling&desc=Information%20Systems%20'29&descSize=17&descAlignY=58" width="100%" alt="Nandini Tiwari banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0117,45:6A1B9A,100:FF2E97&height=210&section=header&text=Nandini%20Tiwari&fontColor=FFFFFF&fontSize=54&fontAlignY=36&animation=twinkling&desc=CMU%20Information%20Systems%20'29&descSize=17&descAlignY=58" width="100%" alt="Nandini Tiwari banner" />
 
 <br/>
 
