@@ -6,10 +6,6 @@
 <a href="https://github.com/nandinitiw"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=79C0FF" /></a>
 <a href="mailto:nandinit@andrew.cmu.edu"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" /></a>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=79C0FF&center=true&vCenter=true&width=560&lines=building+multi-agent+systems+that+monitor+%26+escalate;shipping+fast+%40+Pamastay;data+%2B+chess+%2B+fashion+%2B+ham+radio" alt="typing animation" />
-
 </div>
 
 ---
