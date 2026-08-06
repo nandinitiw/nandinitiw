@@ -66,6 +66,9 @@ nandini = {
 Sending PRs upstream and learning how codebases actually work:
 
 - **PostHog** — [#67552](https://github.com/PostHog/posthog/pull/67552) *(merged ✅)* — fixed feature-flag dashboard tests by mocking the client correctly.
+- **PostHog** *(posthog-js)* — [#4072](https://github.com/PostHog/posthog-js/pull/4072) *(merged ✅)* — captured OpenAI `service_tier` for accurate LLM cost tracking.
+- **PostHog** *(posthog-js)* — [#4195](https://github.com/PostHog/posthog-js/pull/4195) *(open)* — re-translate surveys and snapshot answer-time language when a user's language changes mid-session.
+- **Zod** — [#6320](https://github.com/colinhacks/zod/pull/6320) *(open)* — fix `fromJSONSchema` to accept RFC 3339 numeric offsets for `date-time`.
 - **Chroma** *(chroma-core)* — [#7381](https://github.com/chroma-core/chroma/pull/7381) *(open)* — warn on client/server version mismatch at connection time.
 - **Séance** — shipped [7+ merged PRs](https://github.com/hethb/Seance/pulls?q=is%3Apr+author%3Anandinitiw) with my hackathon team (persona picker, object encounters, image + Redis memory).
 
