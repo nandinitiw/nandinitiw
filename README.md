@@ -15,7 +15,7 @@
 ```python
 nandini = {
     "role":      "Software Engineer @ Pamastay",
-    "also":      "Data Analyst @ CMU Business Technology Group, prev @ Berkeley National Lab",
+    "also":      "Data Engineer @ CMU Business Technology Group, prev @ Berkeley National Lab",
     "school":    "Carnegie Mellon — B.S. Information Systems, CS minor (AI Mgmt) '29",
     "based_in":  "Bay Area, CA ✦ Pittsburgh, PA",
     "loves":     ["fashion", "experimenting", "shipping fast", "chess"],
