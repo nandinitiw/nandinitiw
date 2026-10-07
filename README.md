@@ -16,7 +16,7 @@
 nandini = {
     "role":      "Software Engineer @ Pamastay",
     "also":      "Data Engineer @ CMU Business Technology Group, prev @ Berkeley National Lab",
-    "school":    "Carnegie Mellon — B.S. Information Systems, CS minor (AI Mgmt) '29",
+    "school":    "Carnegie Mellon — B.S. Information Systems and Computer Science '29",
     "based_in":  "Bay Area, CA ✦ Pittsburgh, PA",
     "loves":     ["fashion", "experimenting", "shipping fast", "chess"],
     "currently": "contributing to open source repos!",
