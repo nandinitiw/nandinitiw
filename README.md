@@ -68,6 +68,7 @@ Sending PRs upstream and learning how codebases actually work:
 - **PostHog** — [#67552](https://github.com/PostHog/posthog/pull/67552) *(merged ✅)* — fixed feature-flag dashboard tests by mocking the client correctly.
 - **PostHog** *(posthog-js)* — [#4072](https://github.com/PostHog/posthog-js/pull/4072) *(merged ✅)* — captured OpenAI `service_tier` for accurate LLM cost tracking.
 - **PostHog** *(posthog-js)* — [#4626](https://github.com/PostHog/posthog-js/pull/4626) *(merged ✅)* — fixed a survey engine bug causing question reshuffling and lost responses on mid-survey language switches.
+- **PostHog** *(posthog-js)* — [#5124](https://github.com/PostHog/posthog-js/pull/5124) *(open)* — stop React Native session replay on opt-out and restart it on opt-in.
 - **Zod** — [#6553](https://github.com/colinhacks/zod/pull/6553) *(merged ✅)* — fixed a JSON Schema generation bug where chaining `.int()`/`.int64()` after `.min()`/`.max()` silently discarded explicit bounds.
 - **Chroma** *(chroma-core)* — [#7381](https://github.com/chroma-core/chroma/pull/7381), [#7635](https://github.com/chroma-core/chroma/pull/7635) *(open)* — client/server version-mismatch warning; embedding metadata cleanup on collection delete.
 - **Séance** — shipped [7+ merged PRs](https://github.com/hethb/Seance/pulls?q=is%3Apr+author%3Anandinitiw) with my hackathon team (persona picker, object encounters, image + Redis memory).
