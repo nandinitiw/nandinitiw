@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=200&section=header&text=Nandini%20Tiwari&fontColor=E6EDF3&fontSize=48&fontAlignY=38&animation=fadeIn&desc=CMU%20Information%20Systems%20'28&descSize=16&descAlignY=58" width="100%" alt="Nandini Tiwari banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=200&section=header&text=Nandini%20Tiwari&fontColor=E6EDF3&fontSize=48&fontAlignY=38&animation=fadeIn&desc=CMU%20Information%20Systems%20&descSize=16&descAlignY=58" width="100%" alt="Nandini Tiwari banner" />
 
 <a href="https://linkedin.com/in/nandini-tiwari"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" /></a>
 <a href="https://github.com/nandinitiw"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=79C0FF" /></a>
@@ -16,7 +16,7 @@
 nandini = {
     "role":      "Software Engineer @ Pamastay",
     "also":      "Data Engineer @ CMU Business Technology Group, prev @ Berkeley National Lab",
-    "school":    "Carnegie Mellon — B.S. Information Systems and Computer Science '28",
+    "school":    "Carnegie Mellon — B.S. Information Systems and Computer Science",
     "based_in":  "Bay Area, CA ✦ Pittsburgh, PA",
     "loves":     ["fashion", "experimenting", "shipping fast", "chess"],
     "currently": "contributing to open source repos!",
